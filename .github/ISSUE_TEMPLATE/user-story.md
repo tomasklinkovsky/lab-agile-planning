@@ -11,36 +11,36 @@ assignees: ''
 
 ## User Story
 
-**Jako** ...  
-**chci** ...  
-**abych** ...
+As a <type of user>,
+I want <goal or action>,
+So that <benefit or value>.
 
 ---
 
-## Popis
+## Description
 
-<!-- Doplňující informace, případně odkaz na Figma nebo screenshot -->
-
----
-
-## Akceptační kritéria
-
-- [ ] Kritérium 1
-- [ ] Kritérium 2
-- [ ] Kritérium 3
-
-### Příklady
-
-**Given** uživatel má platnou kartu  
-**When** označí kartu jako ztracenou  
-**Then** karta je okamžitě zablokována a nelze ji použít pro vstup
-
-**Given** karta je označena jako ztracená  
-**When** správce kartu obnoví  
-**Then** karta je opět funkční
+<!-- Additional information, links to Figma, screenshots, or other relevant details -->
 
 ---
 
-## Poznámky
+## Acceptance criteria
 
-<!-- Technické poznámky, omezení, otevřené otázky -->
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
+
+### Examples
+
+**Given** the user has a valid card  
+**When** they mark the card as lost  
+**Then** the card is immediately blocked and can no longer be used for access
+
+**Given** a card is marked as lost  
+**When** an administrator restores the card  
+**Then** the card becomes active and usable again
+
+---
+
+## Notes
+
+<!-- Technical notes, constraints, assumptions, or open questions -->
